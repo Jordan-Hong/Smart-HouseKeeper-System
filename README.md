@@ -1,6 +1,9 @@
 # Smart Housekeeper System
 This is an AIoT project implemented on Arduino. The system consists of two independent agents, Smart Janitor and Smart Housekeeper, which communicate via Bluetooth to provide home security, energy savings, and automated management. For detailed system design, please refer to *Introduction.png* and *Workflow.png* in this repository.
 
+<img width="883" height="1078" alt="Introduction" src="https://github.com/user-attachments/assets/d8366f29-519b-47a0-94bc-405058958e33" />
+
+
 ## System Architecture
 ### Agent 1: Smart Janitor
 Manages the smart door and tracks the movement of people entering and exiting the house.
